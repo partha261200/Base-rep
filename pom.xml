@@ -3,6 +3,18 @@
   <groupId>MavenTest</groupId>
   <artifactId>MavenTest</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>MavenTest</name>
-  <description>Dummy test project</description>
+  
+   <dependencies>
+	  <dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>4.20.0</version>
+</dependency> 
+	  
+	  
+	  
+  </dependencies>
+  
+  
+  
 </project>
